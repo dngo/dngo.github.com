@@ -7,6 +7,12 @@ h1. {{ page.title }}
 
 p(meta). 29 Mar 2011 / 29 Dec 2008  
 
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
 <b>Does this work?</b>
 
 It works
