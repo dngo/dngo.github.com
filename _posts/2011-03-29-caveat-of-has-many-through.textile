@@ -12,9 +12,3 @@ def foo
   puts 'foo'
 end
 </pre>
-
-<b>Does this work?</b>
-
-It works
-
-Yes
